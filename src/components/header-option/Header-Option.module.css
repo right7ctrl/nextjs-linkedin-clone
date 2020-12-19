@@ -16,3 +16,9 @@
   font-weight: normal;
   text-align: center;
 }
+
+.headerOption__icon {
+  object-fit: contain;
+  width: 26px !important;
+  height: 26px !important;
+}

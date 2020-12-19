@@ -30,6 +30,10 @@ function Header() {
         <HeaderOption Icon={BusinessCenter} title="Jobs" />
         <HeaderOption Icon={Chat} title="Messaging" />
         <HeaderOption Icon={Notifications} title="Notifications" />
+        <HeaderOption
+          avatar="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"
+          title="Me"
+        />
       </div>
     </div>
   );
