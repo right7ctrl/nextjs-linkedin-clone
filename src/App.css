@@ -1,0 +1,10 @@
+.App {
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.appBody {
+  display: flex;
+  padding: 12px;
+}
